@@ -1,5 +1,8 @@
 # CAPSLOCKHelper
-This small script prevents you from accidentally pressing CAPSLOCK. It adds a timer (you have to hold capslock for ~1-2 seconds) and a small overlay to show if CAPSLOCK is activated.
+ARE YOU ANNOYED OF ACCIDENTALLY PRESSING CAPSLOCK? IF YES, HERE IS YOUR SOLUTION:
+__CAPSLOCKHelper__
+
+This small script prevents you from accidentally pressing CAPSLOCK. It adds a timer (you have to hold capslock for ~1 second) and a small (not really; you will see it :-)) overlay to show if CAPSLOCK is activated.
 
 ## How to use?
 * Install AutoHotkey V2 or compile this script with [this](https://github.com/AutoHotkey/Ahk2Exe) tool
@@ -8,7 +11,7 @@ This small script prevents you from accidentally pressing CAPSLOCK. It adds a ti
 * Now press your CAPSLOCK key and look what happens...
 
 ## How to uninstall?
-Just delete te script/executable from your startup folder
+Just delete the script/executable from your startup folder
 
 ## Screenshots
 ### ToolTip with timer:
