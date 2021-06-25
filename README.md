@@ -14,5 +14,5 @@ Just delete te script/executable from your startup folder
 ### ToolTip with timer:
 ![ToolTip with timer](https://github.com/Nick768/CAPSLOCKHelper/raw/main/Screenshot/1.png)
 
-### Overlay showing if cpaslock is active:
-![Overlay showing if cpaslock is active](https://github.com/Nick768/CAPSLOCKHelper/raw/main/Screenshot/2.png)
+### Overlay showing if capslock is active:
+![Overlay showing if capslock is active](https://github.com/Nick768/CAPSLOCKHelper/raw/main/Screenshot/2.png)
