@@ -1,6 +1,6 @@
 # CAPSLOCKHelper
 ARE YOU ANNOYED OF ACCIDENTALLY PRESSING CAPSLOCK? IF YES, HERE IS YOUR SOLUTION:
-__CAPSLOCKHelper__
+### CAPSLOCKHelper
 
 This small script prevents you from accidentally pressing CAPSLOCK. It adds a timer (you have to hold capslock for ~1 second) and a small (not really; you will see it :-)) overlay to show if CAPSLOCK is activated.
 
