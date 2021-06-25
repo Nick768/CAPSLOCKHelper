@@ -31,6 +31,8 @@ checkHover(*) {
     return
 }
 
+*CapsLock::return
+
 CapsLock:: {
     global transparency
     
